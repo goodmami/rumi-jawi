@@ -13,6 +13,9 @@ Faizah Binte Zakaria verified or provided corrections.
 [rumi2jawi]: https://github.com/mohdzamrimurah/rumi2jawi
 [commit history]: https://github.com/goodmami/rumi-jawi/commits/main
 
+This dataset is free to use, but the license is not yet
+decided. Hopefully CC-BY 4.0.
+
 ## Data Description
 
 The dataset provides words in Standard Malay written in both the Latin
@@ -27,8 +30,8 @@ The dataset contains modern spellings derived from dictionary sources,
 and are suitable for tasks such as automatic transcription or spelling
 correction. Historical spellings are not included, so it may have
 reduced utility for transcribing older documents, but it may be useful
-for other languages in the region, such as Brunei, where Jawi has
-official status.
+for other languages in the region, such as the Malay used in Brunei,
+where Jawi has official status.
 
 ## Data Format
 
